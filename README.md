@@ -24,7 +24,7 @@ A simple implementation of the classic [2048](https://en.wikipedia.org/wiki/2048
 1. Make sure you have Python 3.x installed.
 2. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/abhishekbidare03/2048-Game-using-Python.git
    ```
 3. Navigate to the project directory:
    ```bash
